@@ -1,3 +1,35 @@
+
+## 결과 화면
+
+![퍼니앤라이너스](https://user-images.githubusercontent.com/79190824/175615798-23e7d6f2-e8dc-4ec0-906b-e540fba78c41.gif)
+
+
+## 📃 Summary
+
+---
+
+사용자가 할일, 해야할일, 완료된 일을 작성하고 드래그를 이용해서 카다를 옮겨가며 작성할 수 있는 todo-list를 개발하였습니다.
+
+## 💻 Part
+
+---
+
+- `REST API`와 `Retrofit2`를 이용한 서버 통신 구현
+- Drag and Drop을 이용한 리사이클러 뷰간의 이동 구현
+- itemTouchHelper를 이용한 swipe기능 구현
+- DialogFragment를 이용한 텍스트 작성 구현
+
+## 🕶Team
+
+---
+
+안드로이드 : 2명
+
+백엔드 : 2명
+
+
+
+
 ## TEAM 2. TODO LIST PROJECT
 
 ### TEAM
